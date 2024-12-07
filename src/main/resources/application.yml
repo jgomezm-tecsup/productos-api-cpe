@@ -5,8 +5,6 @@ spring.datasource.password=
 
 # = jpa
 spring.jpa.show-sql=true
-#spring.jpa.hibernate.ddl-auto=update 
-#spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
 
 # = file upload
 spring.servlet.multipart.max-file-size=10MB 
